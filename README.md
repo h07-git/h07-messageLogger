@@ -1,5 +1,3 @@
-https://badge.fury.io/js/discord.js.svg
-
 ## Harry's Discord Bot: Message Logger
 This is a Discord bot that logs all messages sent within a whitelisted list of channels and servers and posts these logs within an embed to a separate Discord server through a webhook.
 
